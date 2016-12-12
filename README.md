@@ -1,2 +1,1 @@
-# just-java 
 # manaar-group
