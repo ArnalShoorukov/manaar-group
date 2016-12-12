@@ -1,0 +1,6 @@
+<resources>
+
+        <string name="app_name">ManaarGroup</string>
+        <string name="welcome">Welcome to Wonderful Country Kyrgyzstan</string>
+         <string name="address">Mira avenue 56, Bishkek, Kyrgyzstan\n+996312910371\nwww.manaartravel.com</string>
+</resources>
